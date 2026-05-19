@@ -1,9 +1,15 @@
 '''def greet():
     print("Hello")
 
-greet()'''
+greet()
 
 def square(x):
     return x*x
 x= square(17)
-print(x)
+print(x)'''
+
+def greet(name):
+    print("Hello: ", name)
+greet("Debasrita")
+greet("Jit")
+greet("Tarunima")
