@@ -10,7 +10,5 @@ class Dog(Animal):
     def bark(self):
 
 # Creating object
-d = Dog()
 
-d.sound()
-d.bark()
+
