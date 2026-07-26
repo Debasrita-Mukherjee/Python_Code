@@ -7,13 +7,11 @@ class Animal(ABC):
     def sound(self):
         pass
 
-
 # Child Class
 class Dog(Animal):
 
     def sound(self):
         print("Dog says Bow Bow")
-
 
 # Creating object
 d = Dog()
