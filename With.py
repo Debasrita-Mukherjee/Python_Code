@@ -1,3 +1,3 @@
-with open("file handling / data.txt", "r") as file:
-    content=file.read()
+with open("data.txt", "r") as file:
+    content = file.read()
     print(content)
