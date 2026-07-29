@@ -42,7 +42,7 @@ while True:
             print("No Data")
         else:
             for site, pwd in passwords.items():
-                prit(site, ":", pwd)
+                print(site, ":", pwd)
 
     elif choice == "3":
         print("Generated Password", generate_password())
