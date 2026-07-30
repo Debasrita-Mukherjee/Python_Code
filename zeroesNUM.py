@@ -1,3 +1,4 @@
 import numpy as np
-zeroes_array = np.zeroes(3)
-print(zeroes_array)
+
+zeros_array = np.zeros(3)
+print(zeros_array)
