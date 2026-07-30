@@ -1,2 +1,3 @@
 import numpy as np
-eroes_array = np.zeroes(3)
+zeroes_array = np.zeroes(3)
+print(zeroes_array)
