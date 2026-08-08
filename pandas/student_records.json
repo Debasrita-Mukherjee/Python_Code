@@ -1,0 +1,112 @@
+[
+  {
+    "student_id": 1001,
+    "name": "Aarav Sharma",
+    "class": 10,
+    "section": "A",
+    "roll_no": 1,
+    "age": 15,
+    "gender": "Male",
+    "marks": 92,
+    "grade": "A+"
+  },
+  {
+    "student_id": 1002,
+    "name": "Diya Roy",
+    "class": 10,
+    "section": "A",
+    "roll_no": 2,
+    "age": 15,
+    "gender": "Female",
+    "marks": 88,
+    "grade": "A"
+  },
+  {
+    "student_id": 1003,
+    "name": "Rohan Das",
+    "class": 10,
+    "section": "B",
+    "roll_no": 3,
+    "age": 16,
+    "gender": "Male",
+    "marks": 76,
+    "grade": "B+"
+  },
+  {
+    "student_id": 1004,
+    "name": "Ananya Sen",
+    "class": 9,
+    "section": "A",
+    "roll_no": 4,
+    "age": 14,
+    "gender": "Female",
+    "marks": 95,
+    "grade": "A+"
+  },
+  {
+    "student_id": 1005,
+    "name": "Kabir Singh",
+    "class": 9,
+    "section": "B",
+    "roll_no": 5,
+    "age": 14,
+    "gender": "Male",
+    "marks": 69,
+    "grade": "B"
+  },
+  {
+    "student_id": 1006,
+    "name": "Meera Patel",
+    "class": 8,
+    "section": "A",
+    "roll_no": 6,
+    "age": 13,
+    "gender": "Female",
+    "marks": 81,
+    "grade": "A"
+  },
+  {
+    "student_id": 1007,
+    "name": "Arjun Gupta",
+    "class": 8,
+    "section": "B",
+    "roll_no": 7,
+    "age": 13,
+    "gender": "Male",
+    "marks": 73,
+    "grade": "B+"
+  },
+  {
+    "student_id": 1008,
+    "name": "Sneha Paul",
+    "class": 7,
+    "section": "A",
+    "roll_no": 8,
+    "age": 12,
+    "gender": "Female",
+    "marks": 90,
+    "grade": "A+"
+  },
+  {
+    "student_id": 1009,
+    "name": "Rahul Kumar",
+    "class": 7,
+    "section": "B",
+    "roll_no": 9,
+    "age": 12,
+    "gender": "Male",
+    "marks": 64,
+    "grade": "C+"
+  },
+  {
+    "student_id": 1010,
+    "name": "Priya Ghosh",
+    "class": 6,
+    "section": "A",
+    "roll_no": 10,
+    "age": 11,
+    "gender": "Female",
+    "marks": 85,
+    "grade": "A"
+  }
+]
