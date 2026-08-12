@@ -14,6 +14,6 @@ high_salary = df[df['Salary']>50000]
 print("Employees with Salary > 50000: ")
 print(high_salary)
 
-filtered = df[(df[Age] > 30) & (df['Salary'] > 50000)]
-print(f'Employee list Age' > 30 + Salary >50000')
-print(filteredd)
+filtered = df[(df['Age'] > 30) & (df['Salary'] > 50000)]
+print(f'Employee list Age > 30 + Salary >50000')
+print(filtered)
