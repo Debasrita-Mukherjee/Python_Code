@@ -9,5 +9,5 @@ data = {
 
 df = pd.DataFrame(data)
 print(df)
-print("f'shape: {df.shape}")
-print("f'Column_Names: {df.columns}")
+print(f'shape: {df.shape}')
+print(f'Column_Names: {df.columns}')
